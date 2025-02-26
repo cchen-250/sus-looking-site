@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(214, 148, 214);
+}
+p{
+    font-size: 500 px;
+    border:1px solid #5e4e4e
+    box-shadow 10px 10px 5px #210707
+}
+.darkPink{
+    color: rgb(184, 29, 119)
+}
